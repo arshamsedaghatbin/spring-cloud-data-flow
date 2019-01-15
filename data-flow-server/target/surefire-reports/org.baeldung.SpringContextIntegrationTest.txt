@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.baeldung.SpringContextIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.011 s <<< FAILURE! - in org.baeldung.SpringContextIntegrationTest
+whenSpringContextIsBootstrapped_thenNoExceptions(org.baeldung.SpringContextIntegrationTest)  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+

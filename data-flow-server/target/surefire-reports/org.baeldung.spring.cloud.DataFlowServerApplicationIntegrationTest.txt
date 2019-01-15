@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.baeldung.spring.cloud.DataFlowServerApplicationIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in org.baeldung.spring.cloud.DataFlowServerApplicationIntegrationTest
+contextLoads(org.baeldung.spring.cloud.DataFlowServerApplicationIntegrationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+
